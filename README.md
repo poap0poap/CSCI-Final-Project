@@ -1,7 +1,7 @@
 # CSCI-Final-Project-Kees
 
 # How to Use
-##Compile
+## Compile
 g++ main.cpp game.cpp save_manager.cpp utility.cpp -o ./Main.exe
 
 ## Running
