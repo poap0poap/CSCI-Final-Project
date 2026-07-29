@@ -2,7 +2,7 @@
 
 # How to Use
 ## Compile
-g++ main.cpp game.cpp save_manager.cpp utility.cpp -o ./Main.exe
+g++ main.cpp game.cpp save_manager.cpp utility.cpp -o Main.exe
 
 ## Running
 run ./Main.exe
