@@ -1,10 +1,11 @@
 # CSCI-Final-Project-Kees
 
 # How to Use
-As this is a .md file a reader that shows formatting will allow for better reading.
+##Compile
+g++ main.cpp game.cpp save_manager.cpp utility.cpp -o ./Main.exe
 
 ## Running
-run ./FinalProject
+run ./Main.exe
 
 First Select Size
 
